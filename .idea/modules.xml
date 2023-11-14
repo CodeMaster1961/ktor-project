@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ktor-project.iml" filepath="$PROJECT_DIR$/.idea/ktor-project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ktor-project-client-practice/ktor-project-client-practice.iml" filepath="$PROJECT_DIR$/ktor-project-client-practice/ktor-project-client-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktor-project-new/ktor-project-new.iml" filepath="$PROJECT_DIR$/ktor-project-new/ktor-project-new.iml" />
     </modules>
   </component>
 </project>
