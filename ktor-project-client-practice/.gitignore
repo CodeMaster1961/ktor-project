@@ -42,4 +42,4 @@ gradle.properties
 gradlew.bat
 
 ### resources ###
-/src/main/resources
+application.conf
