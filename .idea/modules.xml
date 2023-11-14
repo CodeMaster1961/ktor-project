@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ktor-project.iml" filepath="$PROJECT_DIR$/.idea/ktor-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ktor-project-client-practice/ktor-project-client-practice.iml" filepath="$PROJECT_DIR$/ktor-project-client-practice/ktor-project-client-practice.iml" />
+    </modules>
+  </component>
+</project>
